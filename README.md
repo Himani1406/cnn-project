@@ -29,7 +29,7 @@ We used a Kaggle dataset containing labeled images of healthy potato leaves as w
 ## Model Architecture
 Our CNN model consists of several convolutional layers followed by max-pooling layers. The architecture is designed to extract hierarchical features from the input images, enabling the network to learn discriminative patterns related to different diseases.
 
-![image](https://github.com/Himani1406/cnn-project/assets/114576874/a7358985-e05f-4b3c-a79d-ca3fd280bc11)
+
 
 
 ## Training
@@ -41,8 +41,7 @@ The model's performance is evaluated using accuracy, precision, recall, and F1-s
 ## Results
 Our trained model achieved pretty high accuracy on the validation set.
 
-
-![Uploading image.png…]()
+![image](https://github.com/Himani1406/cnn-project/assets/114576874/a7358985-e05f-4b3c-a79d-ca3fd280bc11)
 
 
 
