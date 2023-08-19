@@ -1,6 +1,7 @@
 # Potato Disease Classification using Convolutional Neural Networks
 
-![Potato Disease Classification]"C:\Users\HP\Downloads\cnn image.jpg"
+![Potato Disease Classification]![image]("C:\Users\HP\Downloads\cnn image.jpg")
+
 
 This repository contains the model and API for a potato disease classification project using Convolutional Neural Networks (CNNs). This project aims to accurately classify different diseases affecting potato plants based on images of their leaves. By utilizing deep learning techniques, specifically CNNs, we aim to create a robust and reliable classifier that can assist in early disease detection and improve crop management strategies.
 
